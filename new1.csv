@@ -1,0 +1,41 @@
+Serial_Number,name,rating,price,provider_name,price_currency,level,pace,audio,subtitles,details_path
+,,,,,,,,,,
+1,Android for Beginners,4.125663819,,Udacity,USD,[],,['en'],['en'],https://classpert.com/udacity/courses/udacity-android-for-beginners-CDVWQ
+,,,,,,,,,,
+2,Images in Android,4.036318988,32,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/images-in-android-2OQzoZ
+,,,,,,,,,,
+3,Android With Kotlin And Android Studio For Absolute Beginners,4.219882917,32,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/android-with-kotlin-and-android-studio-for-absolute-beginners-1sNEgs
+,,,,,,,,,,
+4,Developing Android Apps,4.184150341,,Udacity,USD,[],self_paced,['en'],['en'],https://classpert.com/udacity/courses/udacity-developing-android-apps-3XI5Ob
+,,,,,,,,,,
+5,Android Auto Development,4.409694491,,Udacity,USD,[],,['en'],['en'],https://classpert.com/udacity/courses/udacity-android-auto-development-1KxkE7
+,,,,,,,,,,
+6,Android Development for Beginners,4.34983267,,Udacity,USD,[],,['en'],['en'],https://classpert.com/udacity/courses/udacity-android-development-for-beginners-2JV7fM
+,,,,,,,,,,
+7,Kotlin For Android Developers,4.01334993,32,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/kotlin-for-android-developers-4j84gW
+,,,,,,,,,,
+8,Android Ubiquitous Computing,4.185087309,,Udacity,USD,[],,['en'],['en'],https://classpert.com/udacity/courses/udacity-android-ubiquitous-computing-Ciofg
+,,,,,,,,,,
+9,Google Analytics for Android,4.250005404,,Udacity,USD,[],,['en'],['en'],https://classpert.com/udacity/courses/udacity-google-analytics-for-android-4DiKL6
+,,,,,,,,,,
+10,Firebase Essentials For Android,4.222515279,,Udacity,USD,[],self_paced,['en'],['en'],https://classpert.com/udacity/courses/udacity-firebase-essentials-for-android-1iaG60
+,,,,,,,,,,
+11,Build Modern Android Apps - Bootcamp,4.277641423,32,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/build-modern-android-apps-bootcamp-y3gi3
+,,,,,,,,,,
+12,Mobile Game Development : Build 4 Games for Android,4.040436591,32,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/mobile-game-development--build-4-games-for-android-1A9oNy
+,,,,,,,,,,
+13,How to Code an Android App in Java,,32,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/how-to-code-an-android-app-in-java-37so0H
+,,,,,,,,,,
+14,"Android App Development using Firebase ML kit, build Face detection, Object detection Applications",4.161010535,32,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/android-app-development-using-firebase-ml-kit-build-face-detection-object-detection-applications-3wZBas
+,,,,,,,,,,
+15,Android App Development for Beginners,4.098445522,32,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/android-app-development-for-beginners-3h61Sr
+,,,,,,,,,,
+16,The Android O and Java Developer Course - Build 9 Full Apps,3.902191402,32,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/the-android-o-and-java-developer-course-build-9-full-apps-3EaVwH
+,,,,,,,,,,
+17,Android - Make a Professional Dictionary App from Scratch,4.12206764,32,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/android-make-a-professional-dictionary-app-from-scratch-2IUw9k
+,,,,,,,,,,
+18,Android : Build Voting App using SMS and SQLite with zero experience,4.058281756,32,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/android--build-voting-app-using-sms-and-sqlite-with-zero-experience-45KlPi
+,,,,,,,,,,
+19,Mobile Development Mastery Class : Android App development 2020 - Part 1,3.908331478,32,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/mobile-development-mastery-class--android-app-development-2020-part-1-xaNJo
+,,,,,,,,,,
+20,Create Your First Android App,4.040704757,32,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/create-your-first-android-app-3qULkk
