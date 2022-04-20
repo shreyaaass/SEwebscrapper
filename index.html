@@ -1,0 +1,25 @@
+<!DOCTYPE html><html lang="en"><head>
+      <meta charset="UTF-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>Document</title></head><body>
+      <input type="text" name="" id="search">
+      <button id="submit">submit</button></body>
+      <script>
+      var sub=document.getElementById("submit")
+      sub.addEventListener("click",function (e) {
+        var searchV=document.getElementById("search").value
+        var search=document.getElementById("search")
+        e.preventDefault()
+        console.log(search)
+        console.log(searchV)
+        // fetchApi()
+        let header = new Headers();
+        header.append('Content-Type', 'application/json');
+        header.append('Accept', 'application/json');
+        header.append('Access-Control-Allow-Origin', 'http://localhost:8000');
+        const Burl="http://127.0.0.1:8000/try/"+document.getElementById("search").value
+        //const response= fetch(Burl,{method:'GET',/*body:document.getElementById("search").value,*/headers:header,mode: 'no-cors'})
+        window.open(Burl)
+        console.log(response)
+      })</script></html>

@@ -1,0 +1,21 @@
+Serial_Number,name,rating,price,provider_name,price_currency,level,pace,audio,subtitles,details_path
+1,Android for Beginners,4.12566381914796,,Udacity,USD,[],,['en'],['en'],https://classpert.com/udacity/courses/udacity-android-for-beginners-CDVWQ
+2,Images in Android,4.03631898772887,32.0,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/images-in-android-2OQzoZ
+3,Android With Kotlin And Android Studio For Absolute Beginners,4.21988291695197,32.0,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/android-with-kotlin-and-android-studio-for-absolute-beginners-1sNEgs
+4,Developing Android Apps,4.184150340642,,Udacity,USD,[],self_paced,['en'],['en'],https://classpert.com/udacity/courses/udacity-developing-android-apps-3XI5Ob
+5,Android Auto Development,4.40969449059673,,Udacity,USD,[],,['en'],['en'],https://classpert.com/udacity/courses/udacity-android-auto-development-1KxkE7
+6,Android Development for Beginners,4.34983267034044,,Udacity,USD,[],,['en'],['en'],https://classpert.com/udacity/courses/udacity-android-development-for-beginners-2JV7fM
+7,Kotlin For Android Developers,4.01334993037556,32.0,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/kotlin-for-android-developers-4j84gW
+8,Android Ubiquitous Computing,4.18508730906582,,Udacity,USD,[],,['en'],['en'],https://classpert.com/udacity/courses/udacity-android-ubiquitous-computing-Ciofg
+9,Google Analytics for Android,4.25000540388754,,Udacity,USD,[],,['en'],['en'],https://classpert.com/udacity/courses/udacity-google-analytics-for-android-4DiKL6
+10,Firebase Essentials For Android,4.22251527889117,,Udacity,USD,[],self_paced,['en'],['en'],https://classpert.com/udacity/courses/udacity-firebase-essentials-for-android-1iaG60
+11,Android App Development for Beginners,4.09844552154846,32.0,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/android-app-development-for-beginners-3h61Sr
+12,Android Basics: Button Clicks,4.22266167671386,,Udacity,USD,[],,['en'],['en'],https://classpert.com/udacity/courses/udacity-android-basics-button-clicks-3XziYq
+13,Android SQLite Programming for Beginners,4.11327389682004,32.0,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/android-sqlite-programming-for-beginners-3MF5wk
+14,Google Location Services on Android,4.45937313583794,,Udacity,USD,[],,['en'],['en'],https://classpert.com/udacity/courses/udacity-google-location-services-on-android-6Jo3e
+15,Android basics for Absolute Beginners,,19.0,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/android-basics-for-absolute-beginners-4zXxlm
+16,Learn Firebase For Android (2021),4.04028403193558,32.0,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/learn-firebase-for-android-2021-Sg8UJ
+17,Kotlin Coroutines with Android project,4.03892625365862,32.0,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/kotlin-coroutines-with-android-project-4mmU2d
+18,Build Modern Android Apps - Bootcamp,4.27764142294165,32.0,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/build-modern-android-apps-bootcamp-y3gi3
+19,Mobile Game Development : Build 4 Games for Android,4.04043659125232,32.0,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/mobile-game-development--build-4-games-for-android-1A9oNy
+20,How to Code an Android App in Java,,32.0,Skillshare,USD,[],self_paced,"['en', 'en-US']",['en'],https://classpert.com/skillshare/courses/how-to-code-an-android-app-in-java-37so0H
