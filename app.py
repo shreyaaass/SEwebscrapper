@@ -14,10 +14,9 @@ from requests import request
 app = FastAPI()
 
 
-###using!!!
+
 @app.get("/try/{search_key}")
 def trytry(search_key: str):
-    # return(search_key)
     with open(f"android.csv",'w',encoding="utf-8") as new: 
         wr=writer(new)
         head=["Serial_Number","name","rating","price","provider_name","price_currency","level","pace","audio","subtitles","details_path"]
@@ -40,7 +39,7 @@ def trytry(search_key: str):
                 wr.writerow(s)
         print(f"Table {search_key} has been updated")
     print("all good")
-    return FileResponse("android.csv",filename="download.csv")
+    return FileResponse("android.csv",filename=f"{search_key}.csv")
 
 @app.get("/")
 def wel():
